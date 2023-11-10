@@ -6,7 +6,7 @@ Regular expressions (regex) are a sequence of characters that define a search pa
 
 ## Table of Contents
 
--[ntroduction](#introduction)
+-[Introduction](#introduction)
 
 - [Regex Pattern](#RegexPattern)
 - [Regex Components](#RegexComponents)
